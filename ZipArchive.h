@@ -9,6 +9,7 @@
 //
 */
 
+#import <Cocoa/Cocoa.h>
 
 typedef NS_ENUM(NSInteger, ZipArchiveCompression) {
     ZipArchiveCompressionDefault = -1,
